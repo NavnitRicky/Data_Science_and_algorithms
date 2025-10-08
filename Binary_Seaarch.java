@@ -1,7 +1,5 @@
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
 
-class Main {
+class Binary_Search {
 
     public static int Binary(int t, int arr[]) {
         int start = 0;
