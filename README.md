@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0283-move-zeroes) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0283-move-zeroes) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0075-sort-colors) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -68,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0001-two-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
