@@ -14,21 +14,19 @@ class Solution {
         //     if(freq>n/2) return ele;
         // }
         // return 1;
-        int f=0;
-        int ans=0;
-        for(int i=0;i<nums.length;i++){
-            if(f==0){
-                ans=nums[i];
+             int f=0;
+             int ans=0;
+             for(int i:nums){
+                if(f==0){
+                    ans=i;
                 }
-                
-            if(nums[i]==ans){
+                if(i==ans){
                     f++;
                 }
                 else{
-                      f--;
+                    f--;
                 }
-        }
-                return ans;
-    
+             }
+    return ans;
     }
 }
