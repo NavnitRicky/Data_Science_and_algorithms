@@ -7,7 +7,6 @@ class Solution {
             if(nums[mid]==target){
 
                 return mid;
-                
 
             }
             else if(nums[mid]>target){
