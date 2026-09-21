@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [0796-rotate-string](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0451-sort-characters-by-frequency) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
