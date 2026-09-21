@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0560-subarray-sum-equals-k) |
 ## Quicksort
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -146,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0073-set-matrix-zeroes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
