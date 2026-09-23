@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0796-rotate-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0451-sort-characters-by-frequency) |
