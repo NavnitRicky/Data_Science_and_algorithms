@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0075-sort-colors) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0205-isomorphic-strings) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0119-pascals-triangle-ii) |
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
