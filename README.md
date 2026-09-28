@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/1903-largest-odd-number-in-string) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
