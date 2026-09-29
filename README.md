@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/1903-largest-odd-number-in-string) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
@@ -195,11 +197,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NavnitRicky/Data_Science_and_algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
